@@ -11,5 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evangelist-richard&show_icons=true&locale=en&layout=compact" alt="evangelist-richard" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evangelist-richard&show_icons=true&locale=en" alt="evangelist-richard" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evangelist-richard&" alt="evangelist-richard" /></p>
-
-![image](https://github.com/Evangelist-Richard/Evangelist-Richard/assets/124143134/76dee152-4aa3-4488-a4f1-14e80b1dc8f5)
