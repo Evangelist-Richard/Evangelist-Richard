@@ -62,10 +62,9 @@ I am a Computer Science student passionate about **Competitive Programming, Soft
 
 ##  Currently Learning
 
+* Machine Learning
+* Data Structures & Algorithms
 * Enterprise Service Management
 * ITIL Best Practices
-* Python for Machine Learning
-* Data Structures & Algorithms
-* Backend Development
 
 ---
